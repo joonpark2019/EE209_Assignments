@@ -116,7 +116,6 @@ int main(void){
         //increment the main character counter
         c_main_count++;
 
-    }
     putchar('\n');
 
     return 0;
